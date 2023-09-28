@@ -1,3 +1,7 @@
+<div align="left">
+    <a href="https://app.daily.dev/5p1d3r"><img src="https://github.com/pstkweb/pstkweb/blob/main/devcard.svg" width="256" align="right" alt="Thomas Triboult's Dev Card"/></a>
+</div>
+
 # 👋 Hi, I’m Thomas 🧔‍♂️ 🇫🇷
 Born in 1990 and developer since 2015.
 
@@ -19,13 +23,10 @@ Born in 1990 and developer since 2015.
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/neovim/neovim.png" height="26" title="Neovim"> Neovim
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/docker/docker.png" height="26" alt="Docker"> Docker (and <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/docker-compose/docker-compose.png" height="26" alt="docker-compose"> docker-compose)
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/yarn/yarn.png" height="26" title="Yarn"> Yarn
-- <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/figma/figma.png" height="26" title="Figma"> Figma
-- <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/storybook/storybook.png" height="26" title="Storybook"> Storybook
 
 
 ## 🌱 I'm currently learning
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/unity/unity.png" height="26" title="Unity 3D"> Unity 3D with <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/csharp/csharp.png" height="26" title="C#"> C#
-- How to migrate a monolith to microservices
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/flutter/flutter.png" height="26" title="Flutter"> Flutter
 
 
