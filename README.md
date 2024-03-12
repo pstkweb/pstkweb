@@ -3,12 +3,8 @@
 <a href="https://app.daily.dev/5p1d3r"><img src="https://github.com/pstkweb/pstkweb/blob/main/devcard.svg" width="350" alt="Thomas Triboult's Daily.dev Card" align="left"/></a>
 # 👋 Hi, I’m Thomas 🧔‍♂️ 🇫🇷
 Born in 1990 and developer since 2015.
-<div>
-    <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pstkweb&langs_count=5&theme=nord&layout=compact&hide_border=true" alt="Thomas Triboult's Top used languages" align="center" hspace="10"/>
-        <a href="https://passeport.dev/p/acb626f7-0f1b-4962-bb66-7192481ef3ae">Passeport.dev Card</a>
-    </p>
-</div>
+
+[Passeport.dev Card](https://passeport.dev/p/acb626f7-0f1b-4962-bb66-7192481ef3ae)
 <br clear="left" />
 
 ## 👀 I’m interested in
