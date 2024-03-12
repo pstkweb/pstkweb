@@ -1,17 +1,22 @@
-<div align="left">
-    <a href="https://app.daily.dev/5p1d3r"><img src="https://github.com/pstkweb/pstkweb/blob/main/devcard.svg" width="256" align="right" alt="Thomas Triboult's Dev Card"/></a>
-</div>
 
+
+<a href="https://app.daily.dev/5p1d3r"><img src="https://github.com/pstkweb/pstkweb/blob/main/devcard.svg" width="350" alt="Thomas Triboult's Daily.dev Card" align="left"/></a>
 # 👋 Hi, I’m Thomas 🧔‍♂️ 🇫🇷
 Born in 1990 and developer since 2015.
-
+<div>
+    <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pstkweb&langs_count=5&theme=nord&layout=compact&hide_border=true" alt="Thomas Triboult's Top used languages" align="center" hspace="10"/>
+        <a href="https://passeport.dev/p/acb626f7-0f1b-4962-bb66-7192481ef3ae">Passeport.dev Card</a>
+    </p>
+</div>
+<br clear="left" />
 
 ## 👀 I’m interested in
 ### <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/php/php.png" height="40" title="PHP"> PHP <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/symfony/symfony.png" height="40" title="Symfony"> Symfony (since 2.2)
 - Hexagonal architecture 👍
 - Behavior Driven Development thanks to Behat
 
-### ~~Javascript~~ <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/typescript/typescript.png" height="40" title="Typescript"> Typescript
+### <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/typescript/typescript.png" height="40" title="Typescript"> Typescript
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/react/react.png" height="26" title="React"> React (❤️ hooks)
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/svelte/svelte.png" height="26" title="Svelte"> Svelte
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/nestjs/nestjs.png" height="26" title="NestJS"> NestJS
@@ -19,7 +24,7 @@ Born in 1990 and developer since 2015.
 
 
 ## 🧰 I work with
-- <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/archlinux/archlinux.png" height="26" title="Arch"> Arch
+- <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/archlinux/archlinux.png" height="26" title="Arch"> Arch / <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/macos/macos.png" height="26" title="macOS"> macOS
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/neovim/neovim.png" height="26" title="Neovim"> Neovim
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/docker/docker.png" height="26" alt="Docker"> Docker (and <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/docker-compose/docker-compose.png" height="26" alt="docker-compose"> docker-compose)
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/yarn/yarn.png" height="26" title="Yarn"> Yarn
