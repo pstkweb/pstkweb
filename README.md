@@ -29,6 +29,7 @@ Born in 1990 and developer since 2015.
 ## 🌱 I'm currently learning
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/unity/unity.png" height="26" title="Unity 3D"> Unity 3D with <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/csharp/csharp.png" height="26" title="C#"> C#
 - <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/flutter/flutter.png" height="26" title="Flutter"> Flutter
+- <img src="https://github.com/github/explore/blob/47c32dc2b4b6aad2357ba9a493f19d8b2dc6ebc4/topics/rust/rust.png" height="26" title="Rust"> Rust
 
 
 ## 📫 How to reach me
